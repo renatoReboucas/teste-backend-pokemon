@@ -10,7 +10,7 @@ Sua missão é importar os dados do Pokemon Go, que estão no excel, e criar uma
 
 Esta API deverá seguir o mínimo de práticas RESTful e conter listagens, busca, paginação e filtros. Fique à vontade para decidir quais filtros são mais interessantes.
 
-## Consigo fazer? :godmode:
+## Conhecimentos necessários :godmode:
 
 - [x] Conceitos de API RESTful
 - [x] Modelagem de dados
