@@ -1,10 +1,6 @@
-# Teste de Backend
+# Teste de Backend API-REST
 
-Olá Dev! Tudo bem?
-
-Nós estamos sempre em busca de profissionais interessantes e interessados, com boa capacidade de aprendizado, adaptação e principalmente bom senso!
-
-Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório realizá-lo completamente, queremos apenas reconhecer seu esforço e potencial para aprender, se adaptar e tomar decisões.
+Esse é um desafio de uma vaga backend da empresa [RedFox](https://github.com/RedFoxTech), cujo o desafio consiste em criar uma API com dados de pokémons, vulgo pokémão, aqui está o link do [desafio](https://github.com/RedFoxTech/vaga-backend-teste) pra quem quiser dar uma olhada. A só pra lembrar, não to fazendo pra concorrer a vaga e sim para testar e fixar meu conhecimento em nodeJS. :shipit:
 
 Vamos ao teste!
 
@@ -14,23 +10,11 @@ Sua missão é importar os dados do Pokemon Go, que estão no excel, e criar uma
 
 Esta API deverá seguir o mínimo de práticas RESTful e conter listagens, busca, paginação e filtros. Fique à vontade para decidir quais filtros são mais interessantes.
 
-## Consigo fazer?
+## Consigo fazer? :godmode:
 
-Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes tecnologias:
-- Conceitos de API RESTful
-- Modelagem de dados
-- NodeJS
-- Algum banco de dados, por exemplo, MySQL, SQL Server, MongoDB, etc...
-- Git
+- [x] Conceitos de API RESTful
+- [x] Modelagem de dados
+- [x] NodeJS
+- [x] Algum banco de dados, por exemplo, MySQL, SQL Server, MongoDB, etc...
+- [x] Git
 
-## Por onde começo?
-
-Primeiramente, você pode fazer um fork desse repositório aqui, para sua conta do Github, depois disso crie uma branch nova com o seu nome (ex: nome_sobrenome), para podermos indentificá-lo.
-
-Após terminar o desafio, você pode solicitar um pull request para a branch master do nosso repositório. Vamos receber e fazer a avaliação de todos.
-
-## Só isso?
-
-Só! Mas se quiser fazer a diferença, tente implementar um pouco de TDD e utilizar docker para execução do projeto.
-
-Boa sorte! :)
