@@ -1,0 +1,30 @@
+{
+  "name": "teste-backend-pokemon",
+  "version": "1.0.0",
+  "description": "Esse é um desafio de uma vaga backend da empresa [RedFox](https://github.com/RedFoxTech), cujo o desafio consiste em criar uma API com dados de pokémons, vulgo pokémão, aqui está o link do [desafio](https://github.com/RedFoxTech/vaga-backend-teste) pra quem quiser dar uma olhada. A só pra lembrar, não to fazendo pra concorrer a vaga e sim para testar e fixar meu conhecimento em nodeJS. :shipit:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatoReboucas/vaga-backend-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatoReboucas/vaga-backend-teste/issues"
+  },
+  "homepage": "https://github.com/renatoReboucas/vaga-backend-teste#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.12",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
