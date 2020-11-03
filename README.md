@@ -18,3 +18,6 @@ Esta API deverá seguir o mínimo de práticas RESTful e conter listagens, busca
 - [x] Algum banco de dados, por exemplo, MySQL, SQL Server, MongoDB, etc...
 - [x] Git
 
+
+### Creditos da idéia:
+<a href="https://github.com/m7he4rt/alguma-coisa-de-pokemon#conhecimentos-necess%C3%A1rios-godmode">m7he4rt</a>
