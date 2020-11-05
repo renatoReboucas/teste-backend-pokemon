@@ -1,4 +1,5 @@
 const bodyParser = require("body-parser");
+const ApiController = require('../Controller/ApiController')
 
 module.exports = (app) => {
   app.use(bodyParser.json());
@@ -9,6 +10,8 @@ module.exports = (app) => {
   app.get("/", (req, res) => {
     res.status(200).send({ message: "boas-vindas a API Pokémon GO" });
   });
+
+  app.get("/import", ApiController.importCsv)
 
   // app.get('')
 };

@@ -21,7 +21,9 @@
     "body-parse": "^0.1.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "jsonfile-promised": "0.0.1",
     "knex": "^0.21.12",
+    "node-xlsx": "^0.15.0",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
